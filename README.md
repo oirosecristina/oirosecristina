@@ -1,5 +1,5 @@
 # Olá, eu sou a Rose Cristina 👋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oirosecristina) [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.behance.net/oirosecristina) [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/oirosecristina) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/313rfodfz6zrsdejebaucziyhjvy?si=1f5d223a23134e38)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oirosecristina) [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://www.behance.net/oirosecristina](https://rosecristina.com.br)) [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/oirosecristina) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/313rfodfz6zrsdejebaucziyhjvy?si=1f5d223a23134e38)  
 
 
 ## Tecnologias que eu mais utilizo 🖥️
@@ -15,12 +15,9 @@
     <img alt="" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img alt="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img alt="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img alt="" src="" />
-    <img alt="" src="" />
-    <img alt="" src="" />
 </div>
 
-## Habilidades 
+## Habilidades & Skills ☕
 <div style="diplay: inline-block">
     <img alt="" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
     <img alt="" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
@@ -28,7 +25,20 @@
     <img alt="" src="" />
 </div>
 
+## Projetos web desenvolvidos 🤩 
+<div style="diplay: inline-block">
+    <a href="https://labvitta.com.br" target="_blank"><img alt="" height="50" style="margin: 10px 20px;" src="https://labvitta.com.br/img/logo_labvitta.svg" /></a>
+    <a href="https://labrasa.com.br/home/" target="_blank"><img alt="" height="50" style="margin: 10px 20px;" src="https://labrasa.com.br/images/logo_home.png" /></a>
+    <a href="https://escolabrasileiracrista.com.br" target="_blank"><img alt="" height="60" style="margin: 10px 20px;" src="https://escolabrasileiracrista.com.br/images/logo_ebc.svg" /></a>
+    <a href="https://souclick.com.br/home/" target="_blank"><img alt="" height="45" style="margin: 10px 20px;" src="https://souclick.com.br/images/logo_click.webp" /></a>
+    <a href="https://www.conatusambiental.com.br/home/" target="_blank"><img alt="" width="150" style="margin: 10px 20px;" src="https://www.conatusambiental.com.br/images/logo.svg" /></a>
+    
+    
+</div>
+
 <br />
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oirosecristina&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oirosecristina&hide_progress=true)
