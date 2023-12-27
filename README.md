@@ -27,11 +27,11 @@
 
 ## Projetos web desenvolvidos 🤩 
 <div style="diplay: inline-block">
-    <a href="https://labvitta.com.br" target="_blank"><img alt="" height="50" style="margin: 10px 20px;" src="https://labvitta.com.br/img/logo_labvitta.svg" /></a>
-    <a href="https://labrasa.com.br/home/" target="_blank"><img alt="" height="50" style="margin: 10px 20px;" src="https://labrasa.com.br/images/logo_home.png" /></a>
-    <a href="https://escolabrasileiracrista.com.br" target="_blank"><img alt="" height="60" style="margin: 10px 20px;" src="https://escolabrasileiracrista.com.br/images/logo_ebc.svg" /></a>
-    <a href="https://souclick.com.br/home/" target="_blank"><img alt="" height="45" style="margin: 10px 20px;" src="https://souclick.com.br/images/logo_click.webp" /></a>
-    <a href="https://www.conatusambiental.com.br/home/" target="_blank"><img alt="" width="150" style="margin: 10px 20px;" src="https://www.conatusambiental.com.br/images/logo.svg" /></a>
+    <a href="https://labvitta.com.br" target="_blank"><img alt="" height="30" style="margin: 10px 20px;" src="https://labvitta.com.br/img/logo_labvitta.svg" /></a>
+    <a href="https://labrasa.com.br/home/" target="_blank"><img alt="" height="30" style="margin: 10px 20px;" src="https://labrasa.com.br/images/logo_home.png" /></a>
+    <a href="https://escolabrasileiracrista.com.br" target="_blank"><img alt="" height="40" style="margin: 10px 20px;" src="https://escolabrasileiracrista.com.br/images/logo_ebc.svg" /></a>
+    <a href="https://souclick.com.br/home/" target="_blank"><img alt="" height="35" style="margin: 10px 20px;" src="https://souclick.com.br/images/logo_click.webp" /></a>
+    <a href="https://www.conatusambiental.com.br/home/" target="_blank"><img alt="" width="110" style="margin: 10px 20px;" src="https://www.conatusambiental.com.br/images/logo.svg" /></a>
     
     
 </div>
