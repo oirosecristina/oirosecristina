@@ -1,5 +1,5 @@
 # Olá, eu sou a Rose Cristina 👋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oirosecristina) [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://www.behance.net/oirosecristina](https://rosecristina.com.br)) [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/oirosecristina) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/313rfodfz6zrsdejebaucziyhjvy?si=1f5d223a23134e38)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oirosecristina) [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://www.behance.net/oirosecristina](https://rosecristina.com.br)) [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/oirosecristina)   
 
 
 ## Tecnologias que eu mais utilizo 🖥️
