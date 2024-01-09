@@ -25,7 +25,7 @@
     <img alt="" src="" />
 </div>
 
-## Projetos web desenvolvidos 🤩 
+## Projetos web desenvolvidos recentemente 🤩 
 <div style="diplay: inline-block">
     <a href="https://labvitta.com.br" target="_blank"><img alt="" height="30" style="margin: 10px 20px;" src="https://labvitta.com.br/img/logo_labvitta.svg" /></a>
     <a href="https://labrasa.com.br/home/" target="_blank"><img alt="" height="30" style="margin: 10px 20px;" src="https://labrasa.com.br/images/logo_home.png" /></a>
