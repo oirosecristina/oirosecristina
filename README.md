@@ -32,8 +32,7 @@
     <a href="https://escolabrasileiracrista.com.br" target="_blank"><img alt="" height="40" style="margin: 10px 20px;" src="https://escolabrasileiracrista.com.br/images/logo_ebc.svg" /></a>
     <a href="https://souclick.com.br/home/" target="_blank"><img alt="" height="35" style="margin: 10px 20px;" src="https://souclick.com.br/images/logo_click.webp" /></a>
     <a href="https://www.conatusambiental.com.br/home/" target="_blank"><img alt="" width="110" style="margin: 10px 20px;" src="https://www.conatusambiental.com.br/images/logo.svg" /></a>
-    
-    
+    <a href="https://lmmonitoramento.com.br/home/" target="_blank"><img alt="" width="110" style="margin: 10px 20px;" src="https://lmmonitoramento.com.br/images/logo.png" /></a>   
 </div>
 
 <br />
