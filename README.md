@@ -1,1 +1,1 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou a Rose 👋
